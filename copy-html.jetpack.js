@@ -6,4 +6,4 @@ jetpack.menu.context.page.insertBefore( {
 	command: function(){
 		jetpack.clipboard.set( jetpack.selection.html );
 	}
-}, "Select All" );
+}, "Copy" );
