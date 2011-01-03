@@ -1,12 +1,9 @@
 {
-    "description": "Adds a 'Copy HTML' context menu item which allows you to copy the html for the selected content.", 
-    "author": "Erik Vold <erikvvold@gmail.com>", 
-    "dependencies": [
-        "jetpack-core", 
-        "clipboard"
-    ], 
-    "version": "0.1", 
-    "fullName": "Copy HTML", 
-    "id": "jid0-lqtsBMO4PkjAOFcCt6zDcWsAXCU", 
-    "name": "copy-html"
+  "description": "Adds a 'Copy HTML' context menu item which allows you to copy the html for the selected content.",
+  "author": "Erik Vold <erikvvold@gmail.com>",
+  "dependencies": ["addon-kit"],
+  "version": "0.2",
+  "fullName": "Copy HTML",
+  "id": "jid0-lqtsBMO4PkjAOFcCt6zDcWsAXCU",
+  "name": "copy-html"
 }
